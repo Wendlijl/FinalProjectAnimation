@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bea0562cf8bd6074db38f34d44db5049
+guid: d5a860cbf0817114ba71bc194cb28df9
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -10,8 +10,48 @@ ModelImporter:
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
+      name: Asphalt_diffuseOriginal
+    second: {fileID: 2800000, guid: 4f01c1a1ff85e9a42a034e6938bc6d6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Asphalt_height
+    second: {fileID: 2800000, guid: 051c163f8f932b84c82f90fdc87ea588, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Asphalt_normal
+    second: {fileID: 2800000, guid: 9f646c95988003447baa748d2df5c9bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Barrel
+    second: {fileID: 2800000, guid: 4ef5c198e3d68a64286ff18ab7533e19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Transport_UV_painted
+    second: {fileID: 2800000, guid: e9193a699949d394f8ecdbea9e2abe46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
       name: UVMapsStarship_v2_rev3
-    second: {fileID: 2800000, guid: 39b1b37a587b42d4bbf5f7a910e02357, type: 3}
+    second: {fileID: 2800000, guid: 38bec06d18f24a14380b344326785b7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete_diffuseOriginal
+    second: {fileID: 2800000, guid: d376d4ba3b5ee664a96cc3e75952f1dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete_height
+    second: {fileID: 2800000, guid: 434676e70ed7aed43bd0bca87451f457, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete_normal
+    second: {fileID: 2800000, guid: 1a990a2876fd0f74a907835fd86e128a, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -38,36 +78,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: Take 001
-      takeName: Take 001
-      internalID: 0
-      firstFrame: 0
-      lastFrame: 200
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 1
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
+    clipAnimations: []
     isReadable: 0
   meshes:
     lODScreenPercentages: []
