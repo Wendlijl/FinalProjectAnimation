@@ -520,14 +520,14 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 3
+  take: 5
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
       m_Root: 5
       m_Leaf: /Recordings/Rev1
       m_ForceAssetFolder: 0
-      m_AbsolutePath: C:/Users/John/Documents/AS8/UC2021_Local/EMDT2067/EMDT2067_FinalProject/UnityRecordings/Rev3
+      m_AbsolutePath: E:/Documents (E)/AS8/Personal/Ideas/3dsMax/EMDT2067_FinalProject/UnityRecordings/Rev4
     m_FileName: image_<Take>_<Frame>
   outputFormat: 1
   captureAlpha: 0
